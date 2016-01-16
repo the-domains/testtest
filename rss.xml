@@ -4,11 +4,18 @@
         <description><![CDATA[TestTest]]></description>
         <link>https://thegrid.ai/testtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 14:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 14:36:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testtest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>]]></description>
+            <link>https://thegrid.ai/testtest/57601121-efc4-4456-a874-ad2e31736c20/index.html</link>
+            <guid isPermaLink="false">57601121-efc4-4456-a874-ad2e31736c20</guid>
+            <pubDate>Sat, 16 Jan 2016 14:36:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TestContent]]></title>
-            <description><![CDATA[<article><h1>TestContent</h1><p>TestContent </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1bb4e64-c210-4d82-8c67-fe5e2be011cb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>TestContent</h1><p>TestContent </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b21044582baf8f2f7015930a3415f75d83e07306.jpg"></article>]]></description>
             <link>https://thegrid.ai/testtest/test/index.html</link>
             <guid isPermaLink="false">9023f09f-b768-4e77-84bf-8b6f0ca73d0a</guid>
             <pubDate>Sat, 16 Jan 2016 14:35:39 GMT</pubDate>
