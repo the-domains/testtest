@@ -40,3 +40,6 @@ purpose:
   - type: external
     url: 'http://www.bitcraft.org'
     label: www.bitcraft.org
+  - type: internal
+    label: Manul!
+    item: aa02228f-539a-4ead-a169-f14a499c5eed
