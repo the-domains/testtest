@@ -29,6 +29,9 @@ navigation:
   - name: Manul
     id: aa02228f-539a-4ead-a169-f14a499c5eed
     type: content
+  - name: git
+    url: 'https://github.com/the-domains/testtest'
+    type: external
 favicon: null
 title: TestTest
 content: []
